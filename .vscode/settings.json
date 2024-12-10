@@ -1,0 +1,6 @@
+{
+    "python.terminal.activateEnvironment": false,
+    "python.analysis.extraPaths": [
+        "c:/Users/nick.a.thomas/Software Quality/Robot/my-rsb-robot/."
+    ]
+}
