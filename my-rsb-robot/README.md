@@ -1,12 +1,6 @@
-# Template: Python - Minimal
+### Architectural Model
 
-This template leverages the new [Python framework](https://github.com/robocorp/robocorp), the [libraries](https://github.com/robocorp/robocorp/blob/master/docs/README.md#python-libraries) from to same project as well.
-
-The template provides you with the basic structure of a Python project: logging out of the box and controlling your tasks without fiddling with the base Python stuff. The environment contains the most used libraries, so you do not have to start thinking about those right away. 
-
-👉 Other templates are available as well via our tooling and on our [Portal](https://robocorp.com/portal/tag/template)
-
-## Running
+![architectural model](architecture.png)
 
 #### VS Code
 1. Get [Robocorp Code](https://robocorp.com/docs/developer-tools/visual-studio-code/extension-features) -extension for VS Code.
